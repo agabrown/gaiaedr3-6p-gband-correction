@@ -5,4 +5,5 @@ The Jupyter notebook in this repository presents a Python function for calculati
 
 __NOTE: THIS CODE SHOULD NOT BE USED FOR GAIA DR3 (i.e. the `gaiadr3.gaia_source` table) DATA. THE GAIA DR3 PHOTOMETRY ALREADY
 INCLUDES THE G-BAND CORRECTIONS.__
+
 Copyright: Anthony G.A. Brown, Leiden University
